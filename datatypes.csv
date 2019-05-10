@@ -1,0 +1,4 @@
+id,symbol,name,command,datatype_id
+NIFTYOhlc_1m,NIFTY,Ohlc_1m,NIFTY@agg-m,o1m
+NIFTYOhlc_3m,NIFTY,Ohlc_3m,NIFTY@ohlc3-s-ohlc-1-m,o3m
+NIFTYEMA_10_s_ohlc_3_m,NIFTY,EMA_10_s_ohlc_3_m,NIFTY@EMA10-s-ohlc-3-m-1,EMA10_s_o3m

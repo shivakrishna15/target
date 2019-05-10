@@ -1,0 +1,2 @@
+id,name,symbol,state,last_modified
+NIFTYEMA_10_s_ohlc_3_m,EMA_10_s_ohlc_3_m,NIFTY,"[{""row_no"":124,""date_time"":1551281340000,""symbol"":""NIFTY"",""open"":10803.4,""high"":10803.55,""low"":10793.35,""close"":10794.2,""volume"":0.0,""adj_vol"":null,""date"":1551225600000,""time"":""15:29:00"",""ema"":10805.126616407}]",20190510 06:34:15
